@@ -50,7 +50,7 @@ New government regulations introduced stricter requirements for data protection,
 
 
 
--
+
 
 <!--
  ```diff
