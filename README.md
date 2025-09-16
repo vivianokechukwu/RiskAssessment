@@ -1,44 +1,30 @@
-<h1>Data Breach Risk Assessment & Regulatory Compliance</h1>
+<h1>Data Breach Risk Assessment for a Retail Company & Regulatory Change Risk Assessment for a Financial Firm </h1>
 
 <h2>Overview</h2>
-I Conducted two high-impact risk assessments: a data breach scenario where a phishing attack exposed customer PII and payment data in a multinational retail corporation, and a regulatory change scenario for a financial services firm adapting to new data protection mandates. For both, I identified assets, threats, and vulnerabilities, rated risks as High, and developed mitigation strategies covering technical controls (MFA, encryption, SIEM), governance (DPO, compliance task force), and awareness training. Outcomes included stronger data protection, regulatory alignment, and improved resilience against cyber and compliance risks.
 
-<h2> Data Breach Risk Assessment – Multinational Retailer</h2>
+I conducted two high-impact risk assessments: a data breach in a multinational retailer where a phishing attack exposed customer PII and payment data, and a regulatory change in a financial services firm adapting to stricter data protection mandates. In both cases, I identified critical assets, threats, and vulnerabilities, rated risks as High, and developed mitigation strategies covering technical controls (MFA, encryption, SIEM), governance (DPO, compliance task force), and staff training.
+
+<h2> Data Breach – Multinational Retailer</h2>
 
 A phishing attack compromised employee credentials, leading to unauthorized access to a customer database containing PII and payment data.
 
-### Assessment:<br>
-**Likelihood:** Very Likely<br>
-**Impact:** Critical<br>
-**Risk Level:** High
+- Risk Level: High (Very Likely, Critical Impact)
 
-### Key Mitigations:<br>
-- Enforced MFA across internal systems<br>
-- Deployed SIEM for real-time phishing detection and monitoring<br>
-- Introduced phishing awareness training for staff<br>
-- Applied network segmentation to restrict access to sensitive databases.
+- Key Mitigations: Enforced MFA, deployed SIEM, introduced phishing awareness training, and applied network segmentation.
 
-**Deliverable:** Cybersecurity Risk Register and Treatment Plan (aligned with GDPR, PCI DSS, CCPA).  
+- Deliverable: Cybersecurity Risk Register & Treatment Plan (aligned with GDPR, PCI DSS, CCPA).
 
 <br />
 
-<h2> Regulatory Changes Risk Assessment – Financial Services Firm</h2>
+<h2> Regulatory Change – Financial Services Firm</h2>
 
 New government regulations introduced stricter requirements for data protection, encryption, and accountability in handling customer information.
 
-### Assessment:
-**Likelihood:** Likely<br>
-**Impact:** High<br>
-**Risk Level:** High<br>
+- Risk Level: High (Likely, High Impact)
 
-### Key Mitigations:
-- Established a Regulatory Compliance Task Force and appointed a DPO<br>
-- Updated data protection and retention policies<br>
-- Conducted Privacy Impact Assessments (PIAs) across business processes<br>
-- Implemented encryption, DLP tools, and data classification frameworks<br>
-- Scheduled regular compliance audits and reporting processes
+- Key Mitigations: Established compliance task force with a DPO, updated policies, conducted PIAs, implemented encryption/DLP, and scheduled compliance audits.
 
-**Deliverable:** Compliance Risk Register and Governance Roadmap (aligned with GDPR, HIPAA, and financial regulatory standards).
+- Deliverable: Compliance Risk Register & Governance Roadmap (aligned with GDPR, HIPAA, financial regulations).
 
 <h2>Outcomes </h2>
 
